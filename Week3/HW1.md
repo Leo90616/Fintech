@@ -16,8 +16,7 @@
 後，再將這些細微但卻龐大的非結構化資料存入雲端作處理和分析的動作，讓保險公司在擬定一項新產品時能夠產生更多的想法和依據。我認為這些是保險業未來可
 以持續往雲端科技努力的方向
 
-![image](https://github.com/Leo90616/Photo/blob/main/456.png)
-
+![image](https://github.com/Leo90616/Photo/blob/main/789.png)
 
 
 
