@@ -1,4 +1,4 @@
-## Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
+## 利用API Gateway 和 Lambda 製作聊天機器人
 
 實作影片(連結)
 
